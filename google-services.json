@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197525165172",
+    "project_id": "ruralgo-204eb",
+    "storage_bucket": "ruralgo-204eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197525165172:android:e83bb1d08976ba4d2f6d21",
+        "android_client_info": {
+          "package_name": "com.oge.ruralgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197525165172-c3r1cjlcalaogi73gtcbhnbv5ii88na3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oge.ruralgo",
+            "certificate_hash": "313a25715be95c3d8785170b4c86b3b0f3a2ad4e"
+          }
+        },
+        {
+          "client_id": "197525165172-6a90qvp6d0dkii6kmd8vptflfes75h46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_SfGPzUUY2S2lEtANqrPFW3DdxXU3Msg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197525165172-6a90qvp6d0dkii6kmd8vptflfes75h46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
